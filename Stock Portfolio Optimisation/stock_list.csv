@@ -1,356 +1,349 @@
-JSE_code,Company,Market_cap,Sector
-4SI,4Sight Holdings Ltd.,138570000.0,Financials
-ABG,Absa Group Ltd.,126205000000.0,Financials
-ABSP,Absa Bank Ltd.,,
-ACL,ArcelorMittal South Africa Ltd.,10014900000.0,Basic Materials
-ACS,Acsion Ltd.,2567240000.0,Financials
-ACT,AfroCentric Investment Corporation Ltd.,3045840000.0,Health Care
-ACZ,Arden Capital Ltd,2345330.0,Financials
-ADH,ADvTECH Ltd.,9924830000.0,Consumer Services
-ADI,Adapt IT Holdings Ltd.,976731000.0,Technology
-ADR,Adcorp Holdings Ltd.,571764000.0,Industrials
-ADW,African Dawn Capital Ltd.,7637630.0,Financials
-AEE,African Equity Empowerment Investments Ltd.,491022000.0,Financials
-AEG,Aveng Ltd.,3302380000.0,Industrials
-AEL,Altron Ltd.,3529030000.0,Technology
-AFE,AECI Ltd.,11936700000.0,Basic Materials
-AFEP,AECI Ltd.,,
-AFH,Alexander Forbes Group Holdings Ltd.,6093380000.0,Financials
-AFT,Afrimat Ltd.,8300760000.0,Industrials
-AGL,Anglo American plc,833006000000.0,Basic Materials
-AHA,Arrowhead Properties Ltd.,903149000.0,Financials
-AHB,Arrowhead Properties Ltd.,3596380000.0,Financials
-AHL,AH-Vest Ltd.,11223900.0,Consumer Goods
-AIL,African Rainbow Capital Investments Ltd.,8038430000.0,Financials
-AIP,Adcock Ingram Holdings Ltd.,8559460000.0,Health Care
-ALH,Alaris Holdings Ltd.,521923000.0,Technology
-AME,African Media Entertainment Ltd.,276128000.0,Consumer Services
-AMS,Anglo American Platinum Ltd.,473547000000.0,Basic Materials
-ANG,AngloGold Ashanti Ltd.,134900000000.0,Basic Materials
-ANH,Anheuser-Busch InBev SA/NV,1647670000000.0,Consumer Goods
-ANI,Afine Investments Ltd.,,
-AON,African and Overseas Enterprises Ltd.,71553400.0,Consumer Services
-AOO,African and Overseas Enterprises Ltd.,21200000.0,Consumer Services
-AOVP,African and Overseas Enterprises Ltd.,,
-APF,Accelerate Property Fund Ltd.,1072400000.0,Financials
-APH,Alphamin Resources Corp.,10782100000.0,Basic Materials
-APN,Aspen Pharmacare Holdings Ltd.,102775000000.0,Health Care
-ARA,Astoria Investment Ltd.,301451000.0,Financials
-ARH,ARB Holdings Ltd.,1762500000.0,Industrials
-ARI,African Rainbow Minerals Ltd.,50525600000.0,Basic Materials
-ARL,Astral Foods Ltd.,7159430000.0,Consumer Goods
-ART,Argent Industrial Ltd.,773272000.0,Industrials
-ASC,Ascendis Health Ltd.,401365000.0,Health Care
-ATI,Afristrat Investment Holdings Ltd.,,
-ATID,Afristrat Investment Holdings Ltd.,,
-ATIG,Afristrat Investment Holdings Ltd.,,
-ATT,Attacq Ltd.,5794460000.0,Financials
-AVI,AVI Ltd.,25312600000.0,Consumer Goods
-AVL,Advanced Health Ltd.,189538000.0,Health Care
-AVV,Alviva Holdings Ltd.,1977910000.0,Technology
-AYO,AYO Technology Solutions Ltd.,1376500000.0,Technology
-BAT,Brait PLC,5926770000.0,Financials
-BAU,Bauba Resources Ltd.,262436000.0,Basic Materials
-BAW,Barloworld Ltd.,29779200000.0,Industrials
-BAWP,Barloworld Ltd.,,
-BCF,Bowler Metcalf Ltd.,935996000.0,Industrials
-BEL,Bell Equipment Ltd.,1147550000.0,Industrials
-BHP,BHP Group plc,966104000000.0,Basic Materials
-BID,Bid Corporation Ltd.,106970000000.0,Consumer Services
-BIHLEB,Brait PLC,,
-BIK,Brikor Ltd.,335297000.0,Industrials
-BLU,Blue Label Telecoms Ltd.,4613960000.0,Telecommunications
-BRN,Brimstone Investment Corporation Ltd.,1349860000.0,Financials
-BRT,Brimstone Investment Corporation Ltd.,240840000.0,Financials
-BSR,Basil Read Holdings Ltd.,59813200.0,Industrials
-BTI,British American Tobacco plc,1418320000000.0,Consumer Goods
-BUC,Buffalo Coal Corp,316014000.0,Basic Materials
-BVT,The Bidvest Group Ltd.,63202600000.0,Industrials
-BWN,Balwin Properties Ltd.,1734840000.0,Financials
-BYI,Bytes Technology Group plc,26944200000.0,Technology
-CAC,CAFCA Ltd.,38731200.0,Industrials
-CAT,Caxton and CTP Publishers and Printers Ltd.,3031830000.0,Consumer Services
-CATP,Caxton and CTP Publishers and Printers Ltd.,,
-CCO,Capital & Counties Properties PLC,28985800000.0,Financials
-CFR,Compagnie Financière Richemont SA,1185100000000.0,Consumer Goods
-CGN,Cognition Holdings Ltd.,176540000.0,Technology
-CGR,Calgro M3 Holdings Ltd.,600461000.0,Industrials
-CHP,Choppies Enterprises Ltd.,1016830000.0,Consumer Services
-CKS,Crookes Brothers Ltd.,572412000.0,Consumer Goods
-CLH,City Lodge Hotels Ltd.,2890730000.0,Consumer Services
-CLI,Clientèle Ltd.,3353220000.0,Financials
-CLS,Clicks Group Ltd.,75128000000.0,Consumer Services
-CMH,Combined Motor Holdings Ltd.,1840880000.0,Consumer Services
-CML,Coronation Fund Managers Ltd.,18563800000.0,Financials
-CMO,Chrometco Ltd.,203394000.0,Basic Materials
-CND,Conduit Capital Ltd.,603911000.0,Financials
-COH,Curro Holdings Ltd.,7510400000.0,Consumer Services
-CPI,Capitec Bank Holdings Ltd.,231185000000.0,Financials
-CPIP,Capitec Bank Holdings Ltd.,,
-CRP,Capital & Regional plc,1971570000.0,Financials
-CSB,Cashbuild Ltd.,6572320000.0,Consumer Services
-CSG,CSG Holdings Ltd.,173246000.0,Industrials
-CTA,Capital Appreciation Ltd.,2292500000.0,Technology
-CVW,Castleview Property Fund Ltd.,187056000.0,Financials
-DCP,Dis-Chem Pharmacies Ltd.,30120200000.0,Consumer Services
-DGH,Distell Group Holdings Ltd.,37055100000.0,Consumer Goods
-DIA,Dipula Income Fund Ltd.,2170260000.0,Financials
-DIB,Dipula Income Fund Ltd.,952797000.0,Financials
-DKR,Deutsche Konsum REIT-AG,720697000.0,Financials
-DLT,Delta Property Fund Ltd.,392826000.0,Financials
-DNB,Deneb Investments Ltd.,832148000.0,Financials
-DRA,DRA Global Ltd.,1896630000.0,Industrials
-DRD,DRDGOLD Ltd.,11507700000.0,Basic Materials
-DSBP,Discovery Ltd.,,
-DSY,Discovery Ltd.,91975800000.0,Financials
-DTC,Datatec Ltd.,8430980000.0,Technology
-EEL,Efora Energy Ltd.,132460000.0,Oil & Gas
-ELI,Ellies Holdings Ltd.,233566000.0,Industrials
-EMH,eMedia Holdings Ltd.,296718000.0,Consumer Services
-EMI,Emira Property Fund Ltd.,4808540000.0,Financials
-EMN,eMedia Holdings Ltd.,1336750000.0,Consumer Services
-ENX,enX Group Ltd.,1458500000.0,Industrials
-EOH,EOH Holdings Ltd.,1059270000.0,Technology
-EPE,EPE Capital Partners Ltd.,1495000000.0,Financials
-EPP,EPP N.V.,10768200000.0,Financials
-EPS,Eastern Platinum Ltd.,596840000.0,Basic Materials
-EQU,Equites Property Fund Ltd.,16058600000.0,Financials
-ERN,Erin Energy Corporation,,
-ETO,Etion Ltd.,186256000.0,Technology
-EUZ,Europa Metals Ltd.,90208900.0,Basic Materials
-EXP,Exemplar REITail Ltd.,3189990000.0,Financials
-EXX,Exxaro Resources Ltd.,54586500000.0,Basic Materials
-FBR,Famous Brands Ltd.,7505150000.0,Consumer Services
-FFA,Fortress REIT Ltd.,14787700000.0,Financials
-FFB,Fortress REIT Ltd.,3454550000.0,Financials
-FGL,Finbond Group Ltd.,908243000.0,Financials
-FSE,Firestone Energy Ltd.,212982000.0,Basic Materials
-FSEO1,Firestone Energy Ltd.,,
-FSR,FirstRand Ltd.,334494000000.0,Financials
-FSRP,FirstRand Ltd.,,
-FTH,Frontier Transport Holdings Ltd.,,
-FVT,Fairvest Property Holdings Ltd.,2103310000.0,Financials
-GFI,Gold Fields Ltd.,151338000000.0,Basic Materials
-GLI,Go Life International Ltd.,9000000.0,Health Care
-GLN,Glencore plc,1131740000000.0,Basic Materials
-GML,Gemfields Group Ltd.,3496740000.0,Basic Materials
-GND,Grindrod Ltd.,3322630000.0,Industrials
-GNDP,Grindrod Ltd.,,
-GPL,Grand Parade Investments Ltd.,1264360000.0,Financials
-GRT,Growthpoint Properties Ltd.,50775700000.0,Financials
-GSH,Grindrod Shipping Holdings Ltd.,4325830000.0,Industrials
-GTC,Globe Trade Centre S.A.,9670740000.0,Financials
-HAR,Harmony Gold Mining Company Ltd.,38206100000.0,Basic Materials
-HCI,Hosken Consolidated Investments Ltd.,6864210000.0,Financials
-HDC,Hudaco Industries Ltd.,4216180000.0,Industrials
-HET,Heriot REIT Ltd.,2947400000.0,Financials
-HIL,Homechoice International plc,2774990000.0,Consumer Services
-HLM,Hulamin Ltd.,1345920000.0,Basic Materials
-HMN,Hammerson Plc,29256800000.0,Financials
-HUG,Huge Group Ltd.,608374000.0,Telecommunications
-HUL,Hulisani Ltd.,207500000.0,Financials
-HWA,Hwange Colliery Company Ltd.,51680300.0,Basic Materials
-HYP,Hyprop Investments Ltd.,12800000000.0,Financials
-IAP,Irongate Group,12311400000.0,Financials
-ILE,Imbalie Beauty Ltd.,13840400.0,Consumer Goods
-ILU,Indluplace Properties Ltd.,1110530000.0,Financials
-IMP,Impala Platinum Holdings Ltd.,186382000000.0,Basic Materials
-INL,Investec Ltd.,27059100000.0,Financials
-INLP,Investec Bank Ltd.,,
-INP,Investec plc,58457000000.0,Financials
-INPP,Investec plc,,
-INPPR,Investec plc,,
-INPR,Investec Ltd.,,
-IPF,Investec Property Fund Ltd.,9820010000.0,Financials
-IPL,Imperial Logistics Ltd.,12752600000.0,Industrials
-ISA,ISA Holdings Ltd.,145004000.0,Technology
-ISB,Insimbi Industrial Holdings Ltd.,421538000.0,Basic Materials
-ITE,Italtile Ltd.,21410800000.0,Consumer Services
-IVT,Invicta Holdings Ltd.,2863430000.0,Industrials
-IVTP,Invicta Holdings Ltd.,,
-JBL,Jubilee Metals Group Plc,8260840000.0,Basic Materials
-JSC,Jasco Electronics Holdings Ltd.,77968500.0,Technology
-JSE,JSE Ltd.,9699020000.0,Financials
-KAL,Kaap Agri Ltd.,3374750000.0,Consumer Services
-KAP,KAP Industrial Holdings Ltd.,10554300000.0,Industrials
-KBO,Kibo Energy PLC,234453000.0,Basic Materials
-KIO,Kumba Iron Ore Ltd.,146452000000.0,Basic Materials
-KP2,Kore Potash plc,675099000.0,Basic Materials
-KRO,Karooooo Ltd.,15475600000.0,Technology
-KST,PSG Konsult Ltd.,16800100000.0,Financials
-L2D,Liberty Two Degrees,4197010000.0,Financials
-L4L,Long4Life Ltd.,4054040000.0,Financials
-LAB,Labat Africa Ltd.,166921000.0,Industrials
-LBH,Liberty Holdings Ltd.,26241900000.0,Financials
-LBR,Libstar Holdings Ltd.,4200640000.0,Consumer Goods
-LEW,Lewis Group Ltd.,2968210000.0,Consumer Services
-LHC,Life Healthcare Group Holdings Ltd.,33719700000.0,Health Care
-LNF,London Finance & Investment Group PLC,218452000.0,Financials
-LTE,Lighthouse Capital Ltd.,13860200000.0,Financials
-LUX,Luxe Holdings Ltd.,,
-MCG,MultiChoice Group Ltd.,53256400000.0,Consumer Services
-MCZ,MC Mining Ltd.,186848000.0,Basic Materials
-MDI,Master Drilling Group Ltd.,1686580000.0,Industrials
-MEI,Mediclinic International plc,47390000000.0,Health Care
-MFL,Metrofile Holdings Ltd.,1509280000.0,Industrials
-MHB,Mahube Infrastructure Ltd.,,
-MIX,MiX Telematics Ltd.,4852070000.0,Industrials
-MKR,Montauk Renewables Inc.,,
-MLI,Industrials REIT Ltd.,,
-MMP,Marshall Monteagle PLC,824723000.0,Industrials
-MNP,Mondi plc,186268000000.0,Basic Materials
-MPT,Mpact Ltd.,4652710000.0,Industrials
-MRF,Merafe Resources Ltd.,2799020000.0,Basic Materials
-MRP,Mr Price Group Ltd.,51447300000.0,Consumer Services
-MSM,Massmart Holdings Ltd.,13477000000.0,Consumer Services
-MSP,MAS P.L.C.,30675000000.0,Financials
-MST,Mustek Ltd.,843520000.0,Technology
-MTA,Metair Investments Ltd.,5575580000.0,Consumer Goods
-MTH,Motus Holdings Ltd.,19266400000.0,Consumer Services
-MTM,Momentum Metropolitan Holdings Ltd.,27853000000.0,Financials
-MTN,MTN Group Ltd.,324603000000.0,Telecommunications
-MTNZF,MTN Zakhele Futhi (RF) Ltd.,4085100000.0,Financials
-MTU,Mantengu Mining Ltd.,,
-MUR,Murray & Roberts Holdings Ltd.,6648800000.0,Industrials
-N91,Ninety One plc,36106000000.0,Financials
-NCS,Nictus Ltd.,48099200.0,Consumer Services
-NED,Nedbank Group Ltd.,87001600000.0,Financials
-NFP,New Frontier Properties Ltd.,8046770.0,Financials
-NPH,Northam Platinum Holdings Ltd.,,
-NPK,Nampak Ltd.,2609990000.0,Industrials
-NPKP,Nampak Ltd.,,
-NPN,Naspers Ltd.,1029860000000.0,Technology
-NPP1,Nampak Ltd.,,
-NRL,Newpark REIT Ltd.,379000000.0,Financials
-NRP,NEPI Rockcastle plc,64407300000.0,Financials
-NT1,Net 1 UEPS Technologies Inc.,4059470000.0,Industrials
-NTC,Netcare Ltd.,20780500000.0,Health Care
-NTCP,Netcare Ltd.,,
-NUT,Nutritional Holdings Ltd.,6697350.0,Health Care
-NVE,NVest Financial Holdings Ltd.,482048000.0,Financials
-NVS,Novus Holdings Ltd.,814642000.0,Industrials
-NWL,Nu-World Holdings Ltd.,711099000.0,Consumer Goods
-NY1,Ninety One Ltd.,17051100000.0,Financials
-OAO,Oando plc,2610600000.0,Oil & Gas
-OAS,Oasis Crescent Property Fund,1361620000.0,Financials
-OCE,Oceana Group Ltd.,7265050000.0,Consumer Goods
-OCT,Octodec Investments Ltd.,2156200000.0,Financials
-OLG,OneLogix Group Ltd.,628554000.0,Industrials
-OMN,Omnia Holdings Ltd.,10988400000.0,Basic Materials
-OMU,Old Mutual Ltd.,59516100000.0,Financials
-ORN,Orion Minerals Ltd.,1155140000.0,Basic Materials
-PAN,Pan African Resources PLC,7732020000.0,Basic Materials
-PBG,PBT Group Ltd.,821283000.0,Technology
-PEM,Pembury Lifestyle Group Ltd.,41524000.0,Consumer Services
-PFB,Premier Fishing and Brands Ltd.,195000000.0,Consumer Goods
-PIK,Pick n Pay Stores Ltd.,25481800000.0,Consumer Services
-PMV,Primeserv Group Ltd.,129115000.0,Industrials
-PPC,PPC Ltd.,8331990000.0,Industrials
-PPE,Purple Group Ltd.,2681290000.0,Financials
-PPH,Pepkor Holdings Ltd.,81044200000.0,Consumer Services
-PPR,Putprop Ltd.,169637000.0,Financials
-PRX,Prosus N.V.,2509610000000.0,Technology
-PSG,PSG Group Ltd.,19960200000.0,Financials
-PSV,PSV Holdings Ltd.,32718600.0,Industrials
-QFH,Quantum Foods Holdings Ltd.,1074130000.0,Consumer Goods
-QLT,Quilter plc,50331700000.0,Financials
-RACP,RECM & Calibre Ltd.,,
-RAV,Raven Property Group Ltd.,5381690000.0,Financials
-RBP,Royal Bafokeng Platinum Ltd.,45719500000.0,Basic Materials
-RBX,Raubex Group Ltd.,7097340000.0,Industrials
-RCL,RCL Foods Ltd.,12950700000.0,Consumer Goods
-RDF,Redefine Properties Ltd.,26692400000.0,Financials
-REA,Rebosis Property Fund Ltd.,94899000.0,Financials
-REB,Rebosis Property Fund Ltd.,188798000.0,Financials
-REM,Remgro Ltd.,67618100000.0,Financials
-REN,Renergen Ltd.,3993540000.0,Oil & Gas
-RES,Resilient REIT Ltd.,23547400000.0,Financials
-RFG,RFG Holdings Ltd.,3203070000.0,Consumer Goods
-RHB,RH Bophelo Ltd.,302755000.0,Financials
-RLO,Reunert Ltd.,9315050000.0,Industrials
-RMH,RMB Holdings Ltd.,2046970000.0,Financials
-RMI,Rand Merchant Investment Holdings Ltd.,67537400000.0,Financials
-RNG,Randgold & Exploration Co Ltd.,82043600.0,Basic Materials
-RNI,Reinet Investments SCA,55353400000.0,Financials
-RSG,Resource Generation Ltd.,389525000.0,Basic Materials
-RTN,Rex Trueform Group Ltd.,170313000.0,Consumer Services
-RTO,Rex Trueform Group Ltd.,46492900.0,Consumer Services
-RTOP,Rex Trueform Group Ltd.,,
-S32,South32 Ltd.,206729000000.0,Basic Materials
-SAC,SA Corporate Real Estate Ltd.,5607850000.0,Financials
-SAP,Sappi Ltd.,25514100000.0,Basic Materials
-SAPCB,Sappi Ltd.,,
-SAR,Safari Investments RSA Ltd.,1631840000.0,Financials
-SBK,Standard Bank Group Ltd.,217433000000.0,Financials
-SBKP,Standard Bank Group Ltd.,,
-SBP,Sabvest Capital Ltd.,2313680000.0,Financials
-SBPP,Standard Bank Group Ltd.,,
-SCD,Schroder European Real Estate Investment Trust Plc,3009030000.0,Financials
-SDO,Stadio Holdings Ltd.,3061980000.0,Consumer Services
-SEA,Spear REIT Ltd.,1573130000.0,Financials
-SEB,Sebata Holdings Ltd.,282691000.0,Technology
-SEP,Sephaku Holdings Ltd.,483524000.0,Industrials
-SFN,Sasfin Holdings Ltd.,907994000.0,Financials
-SHFF,Steinhoff Investment Holdings Ltd.,,
-SHG,Sea Harvest Group Ltd.,3989860000.0,Consumer Goods
-SHP,Shoprite Holdings Ltd.,121520000000.0,Consumer Services
-SLM,Sanlam Ltd.,128185000000.0,Financials
-SNH,Steinhoff International Holdings N.V.,14900900000.0,Consumer Services
-SNT,Santam Ltd.,31070500000.0,Financials
-SNV,Santova Ltd.,691160000.0,Industrials
-SOH,South Ocean Holdings Ltd.,262227000.0,Industrials
-SOL,Sasol Ltd.,159603000000.0,Basic Materials
-SOLBE1,Sasol Ltd.,949702000.0,Basic Materials
-SPA,Spanjaard Ltd.,30535700.0,Basic Materials
-SPG,Super Group Ltd.,12649800000.0,Industrials
-SPP,The SPAR Group Ltd.,30970500000.0,Consumer Services
-SRE,Sirius Real Estate Ltd.,33212800000.0,Financials
-SSK,Stefanutti Stocks Holdings Ltd.,88398000.0,Industrials
-SSS,Stor-Age Property REIT Ltd.,6246680000.0,Financials
-SSW,Sibanye Stillwater Ltd.,135000000000.0,Basic Materials
-SUI,Sun International Ltd.,6969750000.0,Consumer Services
-SUR,Spur Corporation Ltd.,1866350000.0,Consumer Services
-SVB,SilverBridge Holdings Ltd.,40306900.0,Technology
-SXM,Sable Exploration and Mining Ltd.,,
-SYG,Sygnia Ltd.,2738290000.0,Financials
-SZK,SAB Zenzele Kabili Holdings (RF) Ltd.,,
-TBS,Tiger Brands Ltd.,33343600000.0,Consumer Goods
-TCP,Transaction Capital Ltd.,32363400000.0,Financials
-TCS,Total Client Services Ltd.,4901350.0,Technology
-TDH,Tradehold Ltd.,2639600000.0,Financials
-TDHBP,Tradehold Ltd.,,
-TEX,Texton Property Fund Ltd.,1404050000.0,Financials
-TFG,The Foschini Group Ltd.,40236400000.0,Consumer Services
-TFGP,The Foschini Group Ltd.,,
-TGA,Thungela Resources Ltd.,11469300000.0,Basic Materials
-TGO,Tsogo Sun Hotels Ltd.,4891870000.0,Consumer Services
-THA,Tharisa plc,7416750000.0,Basic Materials
-TKG,Telkom SA SOC Ltd.,26318600000.0,Telecommunications
-TLM,TeleMasters Holdings Ltd.,72487600.0,Telecommunications
-TMT,Trematon Capital Investments Ltd.,691375000.0,Financials
-TON,Tongaat Hulett Ltd.,718799000.0,Consumer Goods
-TPC,Transpaco Ltd.,548089000.0,Industrials
-TPF,Transcend Residential Property Fund Ltd.,712161000.0,Financials
-TRE,Trencor Ltd.,803466000.0,Industrials
-TRL,Trellidor Holdings Ltd.,307528000.0,Industrials
-TRU,Truworths International Ltd.,22258700000.0,Consumer Services
-TSG,Tsogo Sun Gaming Ltd.,12024700000.0,Consumer Services
-TTO,Trustco Group Holdings Ltd.,2068530000.0,Financials
-TWR,Tower Property Fund Ltd.,1269920000.0,Financials
-TXT,Textainer Group Holdings Ltd.,28235500000.0,Industrials
-UAT,Union Atlantic Minerals Ltd.,69458500.0,Basic Materials
-UPL,Universal Partners Ltd.,1144930000.0,Financials
-VIS,Visual International Holdings Ltd.,28088600.0,Financials
-VKE,Vukile Property Fund Ltd.,12258800000.0,Financials
-VOD,Vodacom Group Ltd.,244060000000.0,Telecommunications
-VUN,Vunani Ltd.,480245000.0,Financials
-VVO,Vivo Energy plc,36095200000.0,Consumer Services
-WBO,Wilson Bayly Holmes - Ovcon Ltd.,6705340000.0,Industrials
-WEA,W G Wearne Ltd.,8291800.0,Industrials
-WEZ,Wesizwe Platinum Ltd.,1692940000.0,Basic Materials
-WHL,Woolworths Holdings Ltd.,54235400000.0,Consumer Services
-WKF,Workforce Holdings Ltd.,316851000.0,Industrials
-WSL,Wescoal Holdings Ltd.,839834000.0,Basic Materials
-YRK,York Timber Holdings Ltd.,1225590000.0,Basic Materials
-YYLBEE,YeboYethu Ltd.,2664320000.0,Financials
-ZED,Zeder Investments Ltd.,4907570000.0,Financials
+JSE_code,Company,Market_cap,Sector,,,
+4SI,4Sight Holdings Ltd.,138570000,Financials,,,
+ABG,Absa Group Ltd.,126205000000,Financials,12.392,12392000000,1262050000
+ABSP,Absa Bank Ltd.,3642400000,Financials,,,
+ACL,ArcelorMittal South Africa Ltd.,10014900000,Basic Materials,,,
+ACS,Acsion Ltd.,2567240000,Financials,,,
+ACT,AfroCentric Investment Corporation Ltd.,3045840000,Health Care,,,
+ACZ,Arden Capital Ltd,2345330,Financials,,,
+ADH,ADvTECH Ltd.,9924830000,Consumer Services,,,
+ADI,Adapt IT Holdings Ltd.,976731000,Technology,,,
+ADR,Adcorp Holdings Ltd.,571764000,Industrials,,,
+ADW,African Dawn Capital Ltd.,7637630,Financials,,,
+AEE,African Equity Empowerment Investments Ltd.,491022000,Financials,,,
+AEG,Aveng Ltd.,3302380000,Industrials,,,
+AEL,Altron Ltd.,3529030000,Technology,,,
+AFE,AECI Ltd.,11936700000,Basic Materials,,,
+AFEP,AECI Ltd.,10686000000,Basic Materials,,,
+AFH,Alexander Forbes Group Holdings Ltd.,6093380000,Financials,,,
+AFT,Afrimat Ltd.,8300760000,Industrials,,,
+AGL,Anglo American plc,8.33006E+11,Basic Materials,,,
+AHA,Arrowhead Properties Ltd.,903149000,Financials,,,
+AHB,Arrowhead Properties Ltd.,3596380000,Financials,,,
+AHL,AH-Vest Ltd.,11223900,Consumer Goods,,,
+AIL,African Rainbow Capital Investments Ltd.,8038430000,Financials,,,
+AIP,Adcock Ingram Holdings Ltd.,8559460000,Health Care,,,
+ALH,Alaris Holdings Ltd.,521923000,Technology,,,
+AME,African Media Entertainment Ltd.,276128000,Consumer Services,,,
+AMS,Anglo American Platinum Ltd.,4.73547E+11,Basic Materials,,,
+ANG,AngloGold Ashanti Ltd.,1.349E+11,Basic Materials,,,
+ANH,Anheuser-Busch InBev SA/NV,1.64767E+12,Consumer Goods,,,
+ANI,Afine Investments Ltd.,249600000,Real Estate,,,
+AON,African and Overseas Enterprises Ltd.,71553400,Consumer Services,,,
+AOO,African and Overseas Enterprises Ltd.,21200000,Consumer Services,,,
+APF,Accelerate Property Fund Ltd.,1072400000,Financials,,,
+APH,Alphamin Resources Corp.,10782100000,Basic Materials,,,
+APN,Aspen Pharmacare Holdings Ltd.,1.02775E+11,Health Care,,,
+ARA,Astoria Investment Ltd.,301451000,Financials,,,
+ARH,ARB Holdings Ltd.,1762500000,Industrials,,,
+ARI,African Rainbow Minerals Ltd.,50525600000,Basic Materials,,,
+ARL,Astral Foods Ltd.,7159430000,Consumer Goods,,,
+ART,Argent Industrial Ltd.,773272000,Industrials,,,
+ASC,Ascendis Health Ltd.,401365000,Health Care,,,
+ATI,Afristrat Investment Holdings Ltd.,59446000000,Industrials,,,
+ATT,Attacq Ltd.,5794460000,Financials,,,
+AVI,AVI Ltd.,25312600000,Consumer Goods,,,
+AVL,Advanced Health Ltd.,189538000,Health Care,,,
+AVV,Alviva Holdings Ltd.,1977910000,Technology,,,
+AYO,AYO Technology Solutions Ltd.,1376500000,Technology,,,
+BAT,Brait PLC,5926770000,Financials,,,
+BAU,Bauba Resources Ltd.,262436000,Basic Materials,,,
+BAW,Barloworld Ltd.,29779200000,Industrials,,,
+BCF,Bowler Metcalf Ltd.,935996000,Industrials,,,
+BEL,Bell Equipment Ltd.,1147550000,Industrials,,,
+BHP,BHP Group plc,9.66104E+11,Basic Materials,,,
+BID,Bid Corporation Ltd.,1.0697E+11,Consumer Services,,,
+BIK,Brikor Ltd.,335297000,Industrials,,,
+BLU,Blue Label Telecoms Ltd.,4613960000,Telecommunications,,,
+BRN,Brimstone Investment Corporation Ltd.,1349860000,Financials,,,
+BRT,Brimstone Investment Corporation Ltd.,240840000,Financials,,,
+BSR,Basil Read Holdings Ltd.,59813200,Industrials,,,
+BTI,British American Tobacco plc,1.41832E+12,Consumer Goods,,,
+BUC,Buffalo Coal Corp,316014000,Basic Materials,,,
+BVT,The Bidvest Group Ltd.,63202600000,Industrials,,,
+BWN,Balwin Properties Ltd.,1734840000,Financials,,,
+BYI,Bytes Technology Group plc,26944200000,Technology,,,
+CAC,CAFCA Ltd.,38731200,Industrials,,,
+CAT,Caxton and CTP Publishers and Printers Ltd.,2974220000,Consumer Services,,,
+CATP,Caxton and CTP Publishers and Printers Ltd.,30470000,Communication Services,,,
+CCO,Capital & Counties Properties PLC,28985800000,Financials,,,
+CFR,Compagnie Financière Richemont SA,1.1851E+12,Consumer Goods,,,
+CGN,Cognition Holdings Ltd.,176540000,Technology,,,
+CGR,Calgro M3 Holdings Ltd.,600461000,Industrials,,,
+CHP,Choppies Enterprises Ltd.,1016830000,Consumer Services,,,
+CKS,Crookes Brothers Ltd.,572412000,Consumer Goods,,,
+CLH,City Lodge Hotels Ltd.,2890730000,Consumer Services,,,
+CLI,Clientèle Ltd.,3353220000,Financials,,,
+CLS,Clicks Group Ltd.,75128000000,Consumer Services,,,
+CMH,Combined Motor Holdings Ltd.,1840880000,Consumer Services,,,
+CML,Coronation Fund Managers Ltd.,18563800000,Financials,,,
+CMO,Chrometco Ltd.,203394000,Basic Materials,,,
+CND,Conduit Capital Ltd.,603911000,Financials,,,
+COH,Curro Holdings Ltd.,7510400000,Consumer Services,,,
+CPI,Capitec Bank Holdings Ltd.,2.31185E+11,Financials,,,
+CPIP,Capitec Bank Holdings Ltd.,1598240000,Financials,,,
+CRP,Capital & Regional plc,1971570000,Financials,,,
+CSB,Cashbuild Ltd.,6572320000,Consumer Services,,,
+CSG,CSG Holdings Ltd.,173246000,Industrials,,,
+CTA,Capital Appreciation Ltd.,2292500000,Technology,,,
+CVW,Castleview Property Fund Ltd.,187056000,Financials,,,
+DCP,Dis-Chem Pharmacies Ltd.,30120200000,Consumer Services,,,
+DGH,Distell Group Holdings Ltd.,37055100000,Consumer Goods,,,
+DIA,Dipula Income Fund Ltd.,2170260000,Financials,,,
+DIB,Dipula Income Fund Ltd.,952797000,Financials,,,
+DKR,Deutsche Konsum REIT-AG,720697000,Financials,,,
+DLT,Delta Property Fund Ltd.,392826000,Financials,,,
+DNB,Deneb Investments Ltd.,832148000,Financials,,,
+DRA,DRA Global Ltd.,1896630000,Industrials,,,
+DRD,DRDGOLD Ltd.,11507700000,Basic Materials,,,
+DSBP,Discovery Ltd.,1007730000,Financials,,,
+DSY,Discovery Ltd.,91975800000,Financials,,,
+DTC,Datatec Ltd.,8430980000,Technology,,,
+EEL,Efora Energy Ltd.,132460000,Oil & Gas,,,
+ELI,Ellies Holdings Ltd.,233566000,Industrials,,,
+EMH,eMedia Holdings Ltd.,296718000,Consumer Services,,,
+EMI,Emira Property Fund Ltd.,4808540000,Financials,,,
+EMN,eMedia Holdings Ltd.,1336750000,Consumer Services,,,
+ENX,enX Group Ltd.,1458500000,Industrials,,,
+EOH,EOH Holdings Ltd.,1059270000,Technology,,,
+EPE,EPE Capital Partners Ltd.,1495000000,Financials,,,
+EPP,EPP N.V.,10768200000,Financials,,,
+EPS,Eastern Platinum Ltd.,596840000,Basic Materials,,,
+EQU,Equites Property Fund Ltd.,16058600000,Financials,,,
+ETO,Etion Ltd.,186256000,Technology,,,
+EUZ,Europa Metals Ltd.,90208900,Basic Materials,,,
+EXP,Exemplar REITail Ltd.,3189990000,Financials,,,
+EXX,Exxaro Resources Ltd.,54586500000,Basic Materials,,,
+FBR,Famous Brands Ltd.,7505150000,Consumer Services,,,
+FFA,Fortress REIT Ltd.,14787700000,Financials,,,
+FFB,Fortress REIT Ltd.,3454550000,Financials,,,
+FGL,Finbond Group Ltd.,908243000,Financials,,,
+FSE,Firestone Energy Ltd.,212982000,Basic Materials,,,
+FSR,FirstRand Ltd.,3.34494E+11,Financials,,,
+FSRP,FirstRand Ltd.,4879430000,Financials,,,
+FTH,Frontier Transport Holdings Ltd.,,,,,
+FVT,Fairvest Property Holdings Ltd.,2103310000,Financials,,,
+GFI,Gold Fields Ltd.,1.51338E+11,Basic Materials,,,
+GLI,Go Life International Ltd.,9000000,Health Care,,,
+GLN,Glencore plc,1.13174E+12,Basic Materials,,,
+GML,Gemfields Group Ltd.,3496740000,Basic Materials,,,
+GND,Grindrod Ltd.,3322630000,Industrials,,,
+GNDP,Grindrod Ltd.,,,,,
+GPL,Grand Parade Investments Ltd.,1264360000,Financials,,,
+GRT,Growthpoint Properties Ltd.,50775700000,Financials,,,
+GSH,Grindrod Shipping Holdings Ltd.,4325830000,Industrials,,,
+GTC,Globe Trade Centre S.A.,9670740000,Financials,,,
+HAR,Harmony Gold Mining Company Ltd.,38206100000,Basic Materials,,,
+HCI,Hosken Consolidated Investments Ltd.,6864210000,Financials,,,
+HDC,Hudaco Industries Ltd.,4216180000,Industrials,,,
+HET,Heriot REIT Ltd.,2947400000,Financials,,,
+HIL,Homechoice International plc,2774990000,Consumer Services,,,
+HLM,Hulamin Ltd.,1345920000,Basic Materials,,,
+HMN,Hammerson Plc,29256800000,Financials,,,
+HUG,Huge Group Ltd.,608374000,Telecommunications,,,
+HUL,Hulisani Ltd.,207500000,Financials,,,
+HWA,Hwange Colliery Company Ltd.,51680300,Basic Materials,,,
+HYP,Hyprop Investments Ltd.,12800000000,Financials,,,
+IAP,Irongate Group,12311400000,Financials,,,
+ILE,Imbalie Beauty Ltd.,13840400,Consumer Goods,,,
+ILU,Indluplace Properties Ltd.,1110530000,Financials,,,
+IMP,Impala Platinum Holdings Ltd.,1.86382E+11,Basic Materials,,,
+INL,Investec Ltd.,27059100000,Financials,,,
+INLP,Investec Bank Ltd.,,,,,
+INP,Investec plc,58457000000,Financials,,,
+INPP,Investec plc,,,,,
+INPPR,Investec plc,,,,,
+INPR,Investec Ltd.,,,,,
+IPF,Investec Property Fund Ltd.,9820010000,Financials,,,
+IPL,Imperial Logistics Ltd.,12752600000,Industrials,,,
+ISA,ISA Holdings Ltd.,145004000,Technology,,,
+ISB,Insimbi Industrial Holdings Ltd.,421538000,Basic Materials,,,
+ITE,Italtile Ltd.,21410800000,Consumer Services,,,
+IVT,Invicta Holdings Ltd.,2863430000,Industrials,,,
+IVTP,Invicta Holdings Ltd.,,,,,
+JBL,Jubilee Metals Group Plc,8260840000,Basic Materials,,,
+JSC,Jasco Electronics Holdings Ltd.,77968500,Technology,,,
+JSE,JSE Ltd.,9699020000,Financials,,,
+KAL,Kaap Agri Ltd.,3374750000,Consumer Services,,,
+KAP,KAP Industrial Holdings Ltd.,10554300000,Industrials,,,
+KBO,Kibo Energy PLC,234453000,Basic Materials,,,
+KIO,Kumba Iron Ore Ltd.,1.46452E+11,Basic Materials,,,
+KP2,Kore Potash plc,675099000,Basic Materials,,,
+KRO,Karooooo Ltd.,15475600000,Technology,,,
+KST,PSG Konsult Ltd.,16800100000,Financials,,,
+L2D,Liberty Two Degrees,4197010000,Financials,,,
+L4L,Long4Life Ltd.,4054040000,Financials,,,
+LAB,Labat Africa Ltd.,166921000,Industrials,,,
+LBH,Liberty Holdings Ltd.,26241900000,Financials,,,
+LBR,Libstar Holdings Ltd.,4200640000,Consumer Goods,,,
+LEW,Lewis Group Ltd.,2968210000,Consumer Services,,,
+LHC,Life Healthcare Group Holdings Ltd.,33719700000,Health Care,,,
+LNF,London Finance & Investment Group PLC,218452000,Financials,,,
+LTE,Lighthouse Capital Ltd.,13860200000,Financials,,,
+LUX,Luxe Holdings Ltd.,,,,,
+MCG,MultiChoice Group Ltd.,53256400000,Consumer Services,,,
+MCZ,MC Mining Ltd.,186848000,Basic Materials,,,
+MDI,Master Drilling Group Ltd.,1686580000,Industrials,,,
+MEI,Mediclinic International plc,47390000000,Health Care,,,
+MFL,Metrofile Holdings Ltd.,1509280000,Industrials,,,
+MHB,Mahube Infrastructure Ltd.,,,,,
+MIX,MiX Telematics Ltd.,4852070000,Industrials,,,
+MKR,Montauk Renewables Inc.,,,,,
+MLI,Industrials REIT Ltd.,,,,,
+MMP,Marshall Monteagle PLC,824723000,Industrials,,,
+MNP,Mondi plc,1.86268E+11,Basic Materials,,,
+MPT,Mpact Ltd.,4652710000,Industrials,,,
+MRF,Merafe Resources Ltd.,2799020000,Basic Materials,,,
+MRP,Mr Price Group Ltd.,51447300000,Consumer Services,,,
+MSM,Massmart Holdings Ltd.,13477000000,Consumer Services,,,
+MSP,MAS P.L.C.,30675000000,Financials,,,
+MST,Mustek Ltd.,843520000,Technology,,,
+MTA,Metair Investments Ltd.,5575580000,Consumer Goods,,,
+MTH,Motus Holdings Ltd.,19266400000,Consumer Services,,,
+MTM,Momentum Metropolitan Holdings Ltd.,27853000000,Financials,,,
+MTN,MTN Group Ltd.,3.24603E+11,Telecommunications,,,
+MTNZF,MTN Zakhele Futhi (RF) Ltd.,4085100000,Financials,,,
+MTU,Mantengu Mining Ltd.,,,,,
+MUR,Murray & Roberts Holdings Ltd.,6648800000,Industrials,,,
+N91,Ninety One plc,36106000000,Financials,,,
+NCS,Nictus Ltd.,48099200,Consumer Services,,,
+NED,Nedbank Group Ltd.,87001600000,Financials,,,
+NFP,New Frontier Properties Ltd.,8046770,Financials,,,
+NPH,Northam Platinum Holdings Ltd.,,,,,
+NPK,Nampak Ltd.,2609990000,Industrials,,,
+NPKP,Nampak Ltd.,,,,,
+NPN,Naspers Ltd.,1.02986E+12,Technology,,,
+NPP1,Nampak Ltd.,,,,,
+NRL,Newpark REIT Ltd.,379000000,Financials,,,
+NRP,NEPI Rockcastle plc,64407300000,Financials,,,
+NT1,Net 1 UEPS Technologies Inc.,4059470000,Industrials,,,
+NTC,Netcare Ltd.,20780500000,Health Care,,,
+NTCP,Netcare Ltd.,,,,,
+NUT,Nutritional Holdings Ltd.,6697350,Health Care,,,
+NVE,NVest Financial Holdings Ltd.,482048000,Financials,,,
+NVS,Novus Holdings Ltd.,814642000,Industrials,,,
+NWL,Nu-World Holdings Ltd.,711099000,Consumer Goods,,,
+NY1,Ninety One Ltd.,17051100000,Financials,,,
+OAO,Oando plc,2610600000,Oil & Gas,,,
+OAS,Oasis Crescent Property Fund,1361620000,Financials,,,
+OCE,Oceana Group Ltd.,7265050000,Consumer Goods,,,
+OCT,Octodec Investments Ltd.,2156200000,Financials,,,
+OLG,OneLogix Group Ltd.,628554000,Industrials,,,
+OMN,Omnia Holdings Ltd.,10988400000,Basic Materials,,,
+OMU,Old Mutual Ltd.,59516100000,Financials,,,
+ORN,Orion Minerals Ltd.,1155140000,Basic Materials,,,
+PAN,Pan African Resources PLC,7732020000,Basic Materials,,,
+PBG,PBT Group Ltd.,821283000,Technology,,,
+PEM,Pembury Lifestyle Group Ltd.,41524000,Consumer Services,,,
+PFB,Premier Fishing and Brands Ltd.,195000000,Consumer Goods,,,
+PIK,Pick n Pay Stores Ltd.,25481800000,Consumer Services,,,
+PMV,Primeserv Group Ltd.,129115000,Industrials,,,
+PPC,PPC Ltd.,8331990000,Industrials,,,
+PPE,Purple Group Ltd.,2681290000,Financials,,,
+PPH,Pepkor Holdings Ltd.,81044200000,Consumer Services,,,
+PPR,Putprop Ltd.,169637000,Financials,,,
+PRX,Prosus N.V.,2.50961E+12,Technology,,,
+PSG,PSG Group Ltd.,19960200000,Financials,,,
+PSV,PSV Holdings Ltd.,32718600,Industrials,,,
+QFH,Quantum Foods Holdings Ltd.,1074130000,Consumer Goods,,,
+QLT,Quilter plc,50331700000,Financials,,,
+RACP,RECM & Calibre Ltd.,,,,,
+RAV,Raven Property Group Ltd.,5381690000,Financials,,,
+RBP,Royal Bafokeng Platinum Ltd.,45719500000,Basic Materials,,,
+RBX,Raubex Group Ltd.,7097340000,Industrials,,,
+RCL,RCL Foods Ltd.,12950700000,Consumer Goods,,,
+RDF,Redefine Properties Ltd.,26692400000,Financials,,,
+REA,Rebosis Property Fund Ltd.,94899000,Financials,,,
+REB,Rebosis Property Fund Ltd.,188798000,Financials,,,
+REM,Remgro Ltd.,67618100000,Financials,,,
+REN,Renergen Ltd.,3993540000,Oil & Gas,,,
+RES,Resilient REIT Ltd.,23547400000,Financials,,,
+RFG,RFG Holdings Ltd.,3203070000,Consumer Goods,,,
+RHB,RH Bophelo Ltd.,302755000,Financials,,,
+RLO,Reunert Ltd.,9315050000,Industrials,,,
+RMH,RMB Holdings Ltd.,2046970000,Financials,,,
+RMI,Rand Merchant Investment Holdings Ltd.,67537400000,Financials,,,
+RNG,Randgold & Exploration Co Ltd.,82043600,Basic Materials,,,
+RNI,Reinet Investments SCA,55353400000,Financials,,,
+RSG,Resource Generation Ltd.,389525000,Basic Materials,,,
+RTN,Rex Trueform Group Ltd.,170313000,Consumer Services,,,
+RTO,Rex Trueform Group Ltd.,46492900,Consumer Services,,,
+RTOP,Rex Trueform Group Ltd.,,,,,
+S32,South32 Ltd.,2.06729E+11,Basic Materials,,,
+SAC,SA Corporate Real Estate Ltd.,5607850000,Financials,,,
+SAP,Sappi Ltd.,25514100000,Basic Materials,,,
+SAPCB,Sappi Ltd.,,,,,
+SAR,Safari Investments RSA Ltd.,1631840000,Financials,,,
+SBK,Standard Bank Group Ltd.,2.17433E+11,Financials,,,
+SBKP,Standard Bank Group Ltd.,,,,,
+SBP,Sabvest Capital Ltd.,2313680000,Financials,,,
+SBPP,Standard Bank Group Ltd.,,,,,
+SCD,Schroder European Real Estate Investment Trust Plc,3009030000,Financials,,,
+SDO,Stadio Holdings Ltd.,3061980000,Consumer Services,,,
+SEA,Spear REIT Ltd.,1573130000,Financials,,,
+SEB,Sebata Holdings Ltd.,282691000,Technology,,,
+SEP,Sephaku Holdings Ltd.,483524000,Industrials,,,
+SFN,Sasfin Holdings Ltd.,907994000,Financials,,,
+SHFF,Steinhoff Investment Holdings Ltd.,,,,,
+SHG,Sea Harvest Group Ltd.,3989860000,Consumer Goods,,,
+SHP,Shoprite Holdings Ltd.,1.2152E+11,Consumer Services,,,
+SLM,Sanlam Ltd.,1.28185E+11,Financials,,,
+SNH,Steinhoff International Holdings N.V.,14900900000,Consumer Services,,,
+SNT,Santam Ltd.,31070500000,Financials,,,
+SNV,Santova Ltd.,691160000,Industrials,,,
+SOH,South Ocean Holdings Ltd.,262227000,Industrials,,,
+SOL,Sasol Ltd.,1.59603E+11,Basic Materials,,,
+SOLBE1,Sasol Ltd.,949702000,Basic Materials,,,
+SPA,Spanjaard Ltd.,30535700,Basic Materials,,,
+SPG,Super Group Ltd.,12649800000,Industrials,,,
+SPP,The SPAR Group Ltd.,30970500000,Consumer Services,,,
+SRE,Sirius Real Estate Ltd.,33212800000,Financials,,,
+SSK,Stefanutti Stocks Holdings Ltd.,88398000,Industrials,,,
+SSS,Stor-Age Property REIT Ltd.,6246680000,Financials,,,
+SSW,Sibanye Stillwater Ltd.,1.35E+11,Basic Materials,,,
+SUI,Sun International Ltd.,6969750000,Consumer Services,,,
+SUR,Spur Corporation Ltd.,1866350000,Consumer Services,,,
+SVB,SilverBridge Holdings Ltd.,40306900,Technology,,,
+SXM,Sable Exploration and Mining Ltd.,,,,,
+SYG,Sygnia Ltd.,2738290000,Financials,,,
+SZK,SAB Zenzele Kabili Holdings (RF) Ltd.,,,,,
+TBS,Tiger Brands Ltd.,33343600000,Consumer Goods,,,
+TCP,Transaction Capital Ltd.,32363400000,Financials,,,
+TCS,Total Client Services Ltd.,4901350,Technology,,,
+TDH,Tradehold Ltd.,2639600000,Financials,,,
+TDHBP,Tradehold Ltd.,,,,,
+TEX,Texton Property Fund Ltd.,1404050000,Financials,,,
+TFG,The Foschini Group Ltd.,40236400000,Consumer Services,,,
+TFGP,The Foschini Group Ltd.,,,,,
+TGA,Thungela Resources Ltd.,11469300000,Basic Materials,,,
+TGO,Tsogo Sun Hotels Ltd.,4891870000,Consumer Services,,,
+THA,Tharisa plc,7416750000,Basic Materials,,,
+TKG,Telkom SA SOC Ltd.,26318600000,Telecommunications,,,
+TLM,TeleMasters Holdings Ltd.,72487600,Telecommunications,,,
+TMT,Trematon Capital Investments Ltd.,691375000,Financials,,,
+TON,Tongaat Hulett Ltd.,718799000,Consumer Goods,,,
+TPC,Transpaco Ltd.,548089000,Industrials,,,
+TPF,Transcend Residential Property Fund Ltd.,712161000,Financials,,,
+TRE,Trencor Ltd.,803466000,Industrials,,,
+TRL,Trellidor Holdings Ltd.,307528000,Industrials,,,
+TRU,Truworths International Ltd.,22258700000,Consumer Services,,,
+TSG,Tsogo Sun Gaming Ltd.,12024700000,Consumer Services,,,
+TTO,Trustco Group Holdings Ltd.,2068530000,Financials,,,
+TWR,Tower Property Fund Ltd.,1269920000,Financials,,,
+TXT,Textainer Group Holdings Ltd.,28235500000,Industrials,,,
+UAT,Union Atlantic Minerals Ltd.,69458500,Basic Materials,,,
+UPL,Universal Partners Ltd.,1144930000,Financials,,,
+VIS,Visual International Holdings Ltd.,28088600,Financials,,,
+VKE,Vukile Property Fund Ltd.,12258800000,Financials,,,
+VOD,Vodacom Group Ltd.,2.4406E+11,Telecommunications,,,
+VUN,Vunani Ltd.,480245000,Financials,,,
+VVO,Vivo Energy plc,36095200000,Consumer Services,,,
+WBO,Wilson Bayly Holmes - Ovcon Ltd.,6705340000,Industrials,,,
+WEA,W G Wearne Ltd.,8291800,Industrials,,,
+WEZ,Wesizwe Platinum Ltd.,1692940000,Basic Materials,,,
+WHL,Woolworths Holdings Ltd.,54235400000,Consumer Services,,,
+WKF,Workforce Holdings Ltd.,316851000,Industrials,,,
+WSL,Wescoal Holdings Ltd.,839834000,Basic Materials,,,
+YRK,York Timber Holdings Ltd.,1225590000,Basic Materials,,,
+YYLBEE,YeboYethu Ltd.,2664320000,Financials,,,
+ZED,Zeder Investments Ltd.,4907570000,Financials,,,
